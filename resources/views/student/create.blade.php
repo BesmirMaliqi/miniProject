@@ -5,7 +5,7 @@
     <style>
 form{
             width: 500px;
-            background-color: white;
+            background-color: rgb(187, 55, 55);
             margin-left: auto;
             margin-right: auto;
             padding: 40px;
@@ -34,12 +34,6 @@ form{
             /* border-radius:0px !important; */
         }
 
-        .div-back{
-            margin-left: auto;
-            margin-right: auto;
-            margin-bottom: 30px;
-            margin-top: 20px;
-        }
         </style>
 </head>
 <body>
